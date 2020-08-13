@@ -45,5 +45,5 @@ Vars.Save2 = -200
 # Probleme
 
 + Es ist nicht möglich negative Zahlen und Kommazahlen darzustellen
-+ Bentuzt du nicht occupy, aber dennoch eine Vars.Save die die Library benutzt, wird! es zu Fehlern kommen
++ Benutzt du nicht occupy, aber dennoch eine Vars.Save die die Library benutzt, wird! es zu Fehlern kommen
 + Es ist nicht möglich z.B. mySaveVar = mySaveVar + 10 zu schreiben, stattdessen muss man mySaveVar:save(mySaveVar:get() + 10) schreiben
